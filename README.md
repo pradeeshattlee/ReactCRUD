@@ -2,8 +2,17 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Available Scripts
 
-In the project directory, you can run:
+To install all dependencies from a package.json file﻿
+In the embedded Terminal (Alt+F12), type one of the following commands:
+
 ### `npm install`
+
+### `yarn install`
+
+As a result you get all the dependencies listed in the package.json from the current folder.
+
+
+In the project directory, you can run:
 ### `npm start`
 
 Runs the app in the development mode.<br />
